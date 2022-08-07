@@ -1,0 +1,74 @@
+## This log has been added manually by copying the output from the terminal. The password has been removed manually.
+
+Please log in to your account
+username: SaminRK
+password: 
+Logging in...
+Logged in successfully
+Checking recent tweets...
+(Time taken 0.8679610390026937 seconds)
+(128)  Samin Rahman tweeted at 2022-08-08T12:45:40.703884
+Sympathy for the Devil is really just about being nice to QAs.
+
+(127)  Samin Rahman tweeted at 2022-08-08T12:44:38.966916
+Why do sin and tan work? Just cos.
+
+(126)  Samin Rahman tweeted at 2022-08-08T12:38:04.021301
+Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+
+(125)  Samin Rahman tweeted at 2022-08-08T12:37:02.235180
+Old C programmers don't die, they're just cast into void.
+
+(124)  Samin Rahman tweeted at 2022-08-08T12:30:26.265619
+Why did the QA cross the road? To ruin everyone's day.
+
+(Time taken 0.8164278130061575 seconds)
+Posting tweet
+What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+(Time taken 0.8246751069964375 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8658568320024642 seconds)
+Posting tweet
+QAs consist of 55% water, 30% blood and 15% Jira tickets.
+(Time taken 0.9181497749959817 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8189154569990933 seconds)
+Posting tweet
+Pirates go 'arg!', computer pirates go 'argv!'
+(Time taken 0.8680431629982195 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.9230690979966312 seconds)
+Posting tweet
+I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+(Time taken 0.8181250859997817 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8174085920036305 seconds)
+Posting tweet
+Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'
+(Time taken 0.9044124369975179 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8000447140002507 seconds)
+Posting tweet
+A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
+(Time taken 0.8711863059943425 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.7784772249942762 seconds)
+Posting tweet
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
+(Time taken 0.8231833589961752 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8620148579939269 seconds)
+Posting tweet
+How come there is no obfuscated Perl contest? Because everyone would win.
+(Time taken 0.7777291240054183 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.9448684220042196 seconds)
+Posting tweet
+There are two ways to write error-free programs; only the third one works.
+(Time taken 0.9090654209940112 seconds)
+Posted tweet. Sleeping for 1 min now.
+(Time taken 0.8176576580008259 seconds)
+Posting tweet
+How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+(Time taken 0.8186716710042674 seconds)
+Posted tweet. Sleeping for 1 min now.
